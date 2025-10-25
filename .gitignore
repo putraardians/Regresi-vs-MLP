@@ -1,0 +1,85 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Model files (optional - you can commit small models)
+*.pkl
+*.joblib
+*.h5
+*.hdf5
+
+# Large datasets (optional - depends on your needs)
+# *.csv
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Logs
+*.log
+logs/
+
+# Generated reports and images
+# *.pdf
+# *.png
+
+# PyTorch
+*.pth
+*.pt
+
+# TensorFlow
+*.pb
+checkpoint
+*.ckpt*
+*.meta
+*.index
+
+# Matplotlib
+*.eps
+*.ps
